@@ -1,0 +1,29 @@
+body { 
+background: url(3.jpg);
+height: 1000px;
+overflow: hidden;
+
+ }
+
+img { 
+
+width: 1000px;
+height: 800px;
+
+ }
+ 
+.op {
+ text-shadow:  1px 1px 80px #f900fc; 
+ font-size: 180px;
+ padding-top: 0px;
+ color: #f80022;
+ font-family: Comic Sans MS;
+}
+
+
+@font-face { 
+font-family: Comic Sans MS; 
+src: url();
+
+}
+
